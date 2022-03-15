@@ -1,0 +1,404 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "firstName": "Tore",
+      "lastName": "Vipan",
+      "email": "tvipan0@wikipedia.org",
+      "gender": "Polygender",
+      "username": "tvipan0"
+    },
+    {
+      "id": 2,
+      "firstName": "Barbabra",
+      "lastName": "Janicijevic",
+      "email": "theophilus.A@gmail.com",
+      "gender": "Male",
+      "username": "bjanicijevic1"
+    },
+    {
+      "id": 3,
+      "firstName": "Domini",
+      "lastName": "Pedrocchi",
+      "email": "dpedrocchi2@rambler.ru",
+      "gender": "Female",
+      "username": "dpedrocchi2"
+    },
+    {
+      "id": 4,
+      "firstName": "Hanson",
+      "lastName": "Magarrell",
+      "email": "hmagarrell3@last.fm",
+      "gender": "Male",
+      "username": "hmagarrell3"
+    },
+    {
+      "id": 5,
+      "firstName": "Ozzy",
+      "lastName": "Kay",
+      "email": "okay4@cbsnews.com",
+      "gender": "Female",
+      "username": "okay4"
+    },
+    {
+      "id": 6,
+      "firstName": "Ottilie",
+      "lastName": "Burger",
+      "email": "oburger5@deliciousdays.com",
+      "gender": "Female",
+      "username": "oburger5"
+    },
+    {
+      "id": 7,
+      "firstName": "Monika",
+      "lastName": "Lethcoe",
+      "email": "mlethcoe6@google.com.au",
+      "gender": "Female",
+      "username": "mlethcoe6"
+    },
+    {
+      "id": 8,
+      "firstName": "Ertha",
+      "lastName": "Balle",
+      "email": "eballe7@so-net.ne.jp",
+      "gender": "Female",
+      "username": "eballe7"
+    },
+    {
+      "id": 9,
+      "firstName": "Boote",
+      "lastName": "Thurgood",
+      "email": "bthurgood8@sbwire.com",
+      "gender": "Female",
+      "username": "bthurgood8"
+    },
+    {
+      "id": 10,
+      "firstName": "Zonda",
+      "lastName": "Lackham",
+      "email": "zlackham9@t.co",
+      "gender": "Female",
+      "username": "zlackham9"
+    },
+    {
+      "id": 11,
+      "firstName": "Adlai",
+      "lastName": "Shivell",
+      "email": "ashivella@w3.org",
+      "gender": "Male",
+      "username": "ashivella"
+    },
+    {
+      "id": 12,
+      "firstName": "Vick",
+      "lastName": "Casillas",
+      "email": "vcasillasb@xing.com",
+      "gender": "Female",
+      "username": "vcasillasb"
+    },
+    {
+      "id": 13,
+      "firstName": "Cosme",
+      "lastName": "Tedman",
+      "email": "ctedmanc@ameblo.jp",
+      "gender": "Male",
+      "username": "ctedmanc"
+    },
+    {
+      "id": 14,
+      "firstName": "Josefa",
+      "lastName": "McCool",
+      "email": "jmccoold@java.com",
+      "gender": "Female",
+      "username": "jmccoold"
+    },
+    {
+      "id": 15,
+      "firstName": "Halette",
+      "lastName": "Print",
+      "email": "hprinte@ow.ly",
+      "gender": "Genderfluid",
+      "username": "hprinte"
+    },
+    {
+      "id": 16,
+      "firstName": "Dallon",
+      "lastName": "Mather",
+      "email": "dmatherf@posterous.com",
+      "gender": "Female",
+      "username": "dmatherf"
+    },
+    {
+      "id": 17,
+      "firstName": "Jacklin",
+      "lastName": "MacGarrity",
+      "email": "jmacgarrityg@sphinn.com",
+      "gender": "Male",
+      "username": "jmacgarrityg"
+    },
+    {
+      "id": 18,
+      "firstName": "Beret",
+      "lastName": "Acaster",
+      "email": "bacasterh@ustream.tv",
+      "gender": "Female",
+      "username": "bacasterh"
+    },
+    {
+      "id": 19,
+      "firstName": "Justus",
+      "lastName": "Goodhand",
+      "email": "jgoodhandi@umich.edu",
+      "gender": "Female",
+      "username": "jgoodhandi"
+    },
+    {
+      "id": 20,
+      "firstName": "Grazia",
+      "lastName": "Chevolleau",
+      "email": "gchevolleauj@wisc.edu",
+      "gender": "Female",
+      "username": "gchevolleauj"
+    },
+    {
+      "id": 21,
+      "firstName": "Vivianna",
+      "lastName": "Kennon",
+      "email": "vkennonk@gizmodo.com",
+      "gender": "Male",
+      "username": "vkennonk"
+    },
+    {
+      "id": 22,
+      "firstName": "James",
+      "lastName": "Jurgen",
+      "email": "jjurgenl@comcast.net",
+      "gender": "Male",
+      "username": "jjurgenl"
+    },
+    {
+      "id": 23,
+      "firstName": "Delcine",
+      "lastName": "Rudinger",
+      "email": "drudingerm@smugmug.com",
+      "gender": "Female",
+      "username": "drudingerm"
+    },
+    {
+      "id": 24,
+      "firstName": "Lambert",
+      "lastName": "Kneller",
+      "email": "lknellern@macromedia.com",
+      "gender": "Female",
+      "username": "lknellern"
+    },
+    {
+      "id": 25,
+      "firstName": "Franni",
+      "lastName": "Housby",
+      "email": "fhousbyo@flickr.com",
+      "gender": "Male",
+      "username": "fhousbyo"
+    },
+    {
+      "id": 26,
+      "firstName": "Ray",
+      "lastName": "Lusted",
+      "email": "rlustedp@joomla.org",
+      "gender": "Female",
+      "username": "rlustedp"
+    },
+    {
+      "id": 27,
+      "firstName": "Rebbecca",
+      "lastName": "Aronin",
+      "email": "raroninq@gmpg.org",
+      "gender": "Male",
+      "username": "raroninq"
+    },
+    {
+      "id": 28,
+      "firstName": "Joye",
+      "lastName": "Whitington",
+      "email": "jwhitingtonr@homestead.com",
+      "gender": "Female",
+      "username": "jwhitingtonr"
+    },
+    {
+      "id": 29,
+      "firstName": "Shelagh",
+      "lastName": "Biffen",
+      "email": "sbiffens@pinterest.com",
+      "gender": "Male",
+      "username": "sbiffens"
+    },
+    {
+      "id": 30,
+      "firstName": "Galvan",
+      "lastName": "Sikora",
+      "email": "gsikorat@kickstarter.com",
+      "gender": "Female",
+      "username": "gsikorat"
+    },
+    {
+      "id": 31,
+      "firstName": "Dana",
+      "lastName": "Luttger",
+      "email": "dluttgeru@slate.com",
+      "gender": "Female",
+      "username": "dluttgeru"
+    },
+    {
+      "id": 32,
+      "firstName": "Michael",
+      "lastName": "Dienes",
+      "email": "mdienesv@latimes.com",
+      "gender": "Male",
+      "username": "mdienesv"
+    },
+    {
+      "id": 33,
+      "firstName": "Sula",
+      "lastName": "Gant",
+      "email": "sgantw@netvibes.com",
+      "gender": "Male",
+      "username": "sgantw"
+    },
+    {
+      "id": 34,
+      "firstName": "Michaella",
+      "lastName": "Acomb",
+      "email": "macombx@eventbrite.com",
+      "gender": "Male",
+      "username": "macombx"
+    },
+    {
+      "id": 35,
+      "firstName": "Peyter",
+      "lastName": "Proctor",
+      "email": "pproctory@abc.net.au",
+      "gender": "Female",
+      "username": "pproctory"
+    },
+    {
+      "id": 36,
+      "firstName": "Adrian",
+      "lastName": "Jonke",
+      "email": "ajonkez@weather.com",
+      "gender": "Female",
+      "username": "ajonkez"
+    },
+    {
+      "id": 37,
+      "firstName": "Amalia",
+      "lastName": "Durrett",
+      "email": "adurrett10@apache.org",
+      "gender": "Female",
+      "username": "adurrett10"
+    },
+    {
+      "id": 38,
+      "firstName": "Tabatha",
+      "lastName": "Yandle",
+      "email": "tyandle11@economist.com",
+      "gender": "Male",
+      "username": "tyandle11"
+    },
+    {
+      "id": 39,
+      "firstName": "Pietrek",
+      "lastName": "Shafier",
+      "email": "pshafier12@slideshare.net",
+      "gender": "Female",
+      "username": "pshafier12"
+    },
+    {
+      "id": 40,
+      "firstName": "Sophey",
+      "lastName": "Sellack",
+      "email": "ssellack13@independent.co.uk",
+      "gender": "Female",
+      "username": "ssellack13"
+    },
+    {
+      "id": 41,
+      "firstName": "Brit",
+      "lastName": "Shapcott",
+      "email": "bshapcott14@scientificamerican.com",
+      "gender": "Male",
+      "username": "bshapcott14"
+    },
+    {
+      "id": 42,
+      "firstName": "Flemming",
+      "lastName": "Guiduzzi",
+      "email": "fguiduzzi15@house.gov",
+      "gender": "Genderqueer",
+      "username": "fguiduzzi15"
+    },
+    {
+      "id": 43,
+      "firstName": "Ignaz",
+      "lastName": "Kennard",
+      "email": "ikennard16@state.tx.us",
+      "gender": "Female",
+      "username": "ikennard16"
+    },
+    {
+      "id": 44,
+      "firstName": "Hilda",
+      "lastName": "Beecker",
+      "email": "hbeecker17@va.gov",
+      "gender": "Male",
+      "username": "hbeecker17"
+    },
+    {
+      "id": 45,
+      "firstName": "Joella",
+      "lastName": "Silverwood",
+      "email": "jsilverwood18@scribd.com",
+      "gender": "Male",
+      "username": "jsilverwood18"
+    },
+    {
+      "id": 46,
+      "firstName": "Zena",
+      "lastName": "Komorowski",
+      "email": "zkomorowski19@icio.us",
+      "gender": "Male",
+      "username": "zkomorowski19"
+    },
+    {
+      "id": 47,
+      "firstName": "Krysta",
+      "lastName": "Victor",
+      "email": "kvictor1a@imageshack.us",
+      "gender": "Female",
+      "username": "kvictor1a"
+    },
+    {
+      "id": 48,
+      "firstName": "Allsun",
+      "lastName": "Dowbiggin",
+      "email": "adowbiggin1b@plala.or.jp",
+      "gender": "Female",
+      "username": "adowbiggin1b"
+    },
+    {
+      "id": 49,
+      "firstName": "Torie",
+      "lastName": "Sagg",
+      "email": "tsagg1c@last.fm",
+      "gender": "Female",
+      "username": "tsagg1c"
+    },
+    {
+      "id": 50,
+      "firstName": "Timmie",
+      "lastName": "Hoodlass",
+      "email": "thoodlass1d@canalblog.com",
+      "gender": "Female",
+      "username": "thoodlass1d"
+    }
+  ]
+}
